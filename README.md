@@ -39,7 +39,7 @@ The SQL code performs multi-step analysis, showcasing proficiency in complex joi
 
 ---
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 
 | Category | Skills Demonstrated |
 | :--- | :--- |
